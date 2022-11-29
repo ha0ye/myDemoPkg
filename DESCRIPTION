@@ -13,3 +13,6 @@ URL: https://github.com/ha0ye/myDemoPkg
 BugReports: https://github.com/ha0ye/myDemoPkg/issues
 Imports: 
     dplyr
+Depends: 
+    R (>= 2.10)
+LazyData: true
